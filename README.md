@@ -25,6 +25,9 @@ Project in React.JS that simulates a random roll of a 6-sided dice.
 
 - npm run start
 
+#### Test your app
+- npm run test
+
 ### Author:
 
 - [Github](https://github.com/isadarub)
