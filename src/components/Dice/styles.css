@@ -1,0 +1,21 @@
+.Dice {
+  font-size: 10em;
+  padding: 0.25em;
+  color: #00baff;
+}
+
+.Dice-rolling {
+  animation: rollIn;
+  animation-duration: 0.7s;
+}
+
+@keyframes rollIn {
+  0% {
+    opacity: 0;
+    transform: translate(-100%) rotate(-120deg);
+  }
+  100% {
+    opacity: 1;
+    transform: translate(0px) rotate(0deg);
+  }
+}
