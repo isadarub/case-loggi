@@ -12,7 +12,7 @@ Project in React.JS that simulates a random roll of a 6-sided dice.
 
 #### Create your app:
 
-- npx create-react-app <app-name>, then cd <app-name>
+- npx create-react-app app-name, then cd app-name
 
 #### Install your libs
 
