@@ -1,7 +1,6 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import './styles.css';
-import styled from 'styled-components';
 
 const Dice = props => {
   return (
