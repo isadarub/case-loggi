@@ -1,7 +1,7 @@
 # 🎲 Six-sided dice roller
 
 Project in React.JS that simulates a random roll of a 6-sided dice.
-You can access my publicated version of project [HERE](https://dice-roller-belle.surge.sh/)
+You can access my publicated version of project [HERE](https://dice-roller-belle.surge.sh/).
 
 ### Status
 
