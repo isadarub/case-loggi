@@ -15,7 +15,7 @@ You can access my publicated version of project [HERE](https://dice-roller-belle
 
 - npx create-react-app app-name, then cd app-name
 
-#### Install your libs
+#### Install libs
 
 - npm i styled-components
 - npm i --save @fortawesome/fontawesome-svg-core
